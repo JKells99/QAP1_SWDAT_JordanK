@@ -1,22 +1,10 @@
 package com.keyin;
-
 import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-
 import java.io.IOException;
 import java.nio.file.Paths;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
-import java.util.Objects;
-
 public class SuggestionEngineTest {
-
-
-
-
 
     @Test
     @DisplayName("Testing For Exact Word Returns A Empty String")
