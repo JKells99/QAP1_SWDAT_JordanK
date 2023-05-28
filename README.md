@@ -8,3 +8,5 @@ USE CASES COVERED IN THE TEST:
 2. A user inputs a word with one missing letter and the correct word is in the suggestions 
 3. A user inputs a word and word and gets back a sensible word i.e Input: hello should not retuen Elon as a suggestion 
 4. A user inputs a word that has switched letters and the correct word can be found in the suggestions i.e helol should suggest hello 
+
+Testing
